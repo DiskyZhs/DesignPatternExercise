@@ -12,6 +12,8 @@
 
 ----------
 
+提前送上自己总结的可以查阅的表
+![设计模式查阅][1]
 
 ## 设计模式的类型
    在[设计模式简介](http://www.runoob.com/design-pattern/design-pattern-intro.html)有更详细的介绍，简单地说就是：
@@ -363,3 +365,5 @@ Adapter模式最大的作用还是将原本不兼容的接口融合在一起工�
 
  
 
+
+  [1]: https://timgsa.baidu.com/timg?image&quality=80%20&size=b10000_10000&sec=1535083441157&di=3f6ea89ac4dab1f44eac84d1321e3738&imgtype=jpg&src=http://h.hiphotos.baidu.com/image/pic/item/d53f8794a4c27d1e05eae0f816d5ad6eddc4383a.jpg
